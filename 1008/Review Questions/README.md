@@ -1,9 +1,5 @@
 # Chapter 5. Procedures
 
-**범위:** 5.8.1 Short Answer 1--20, 5.8.2 Algorithm Workbench 1--5, 5.9
-Programming Exercises 1--11\
-**환경:** 32비트 MASM + Irvine32 라이브러리
-
 ## 5.8.1 Short Answer
 
 1.  **PUSHAD** --- 32비트 범용 레지스터들을 스택에 저장한다.
