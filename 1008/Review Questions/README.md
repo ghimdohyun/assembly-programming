@@ -1,4 +1,4 @@
-# Chapter 5. Procedures --- 검토·수정본
+# Chapter 5. Procedures
 
 **범위:** 5.8.1 Short Answer 1--20, 5.8.2 Algorithm Workbench 1--5, 5.9
 Programming Exercises 1--11\
